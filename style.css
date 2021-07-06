@@ -1,0 +1,107 @@
+.orange-color{
+
+    color:orange;
+
+}
+h1{
+    font-size: 60px;
+    color: rgb(94, 90, 90); 
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}    
+
+ .flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+     }
+.link-button{
+    text-decoration: none;
+ background-image:linear-gradient(orange,tomato);
+   padding: 10px 40px;
+   color:wheat
+   font-weight: 700;
+   border-radius: 25px;
+}
+     .res-head h1{
+        text-align: center;
+        font-size: 40px; 
+    }
+    .res-main{
+        display: flex;
+    }
+    .res-item{
+        width: 33%;
+        padding:100px;
+    }
+    .res-text h3{
+        font-size: 30px;
+        text-align: center;
+    }
+    .reci-head h1{
+        text-align: center;
+        font-size: 40px;
+    }
+    .reci-head p{
+        text-align: center;
+    }
+    .reci-main{
+        display: flex;
+        margin: 0 100px 0 100px;
+    
+    }
+    .reci-item{
+        width: 33%;
+        padding:50px;
+        background-color:white;
+        margin-left: 3%;
+        margin-right: 3%;
+        border-radius: 10px;
+        box-shadow: 10px 10px 40px gray;
+    }
+    #text-main{
+        margin: 0 140px 0 140px;
+    }
+    .text-item{
+        display: flex;
+    }
+    .reci-text h3{
+        font-size: 30px;
+        text-align: top;
+    }
+    #text{
+        width: 85%;
+        margin:0 auto;
+    }
+    .text-main{
+        margin-top: 100px;
+        display: flex;
+        border-radius: 18px;
+        box-shadow: 10px 10px 40px gray;
+    }
+    .text-item{
+        width: 33.33%;
+        display: block;
+        text-align: center; }
+        #footer-main{
+            margin-top: 100px;
+            background-color: black;
+            box-shadow: 10px 10px 40px gray;
+        }
+        .footer-text h1{
+            text-align: center;
+        }
+        .footer-text p{
+            text-align: center;
+            color: white;
+        }
+.reci-item-main{
+    display: flex;
+}
+.experience-area{
+display: flex;
+}
